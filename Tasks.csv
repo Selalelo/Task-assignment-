@@ -1,0 +1,32 @@
+Task id,Skills,Complexity,Priority level
+T101,"python,sql",high,high
+T102,"html,python,sql",medium,medium
+T103,"javascript,css",high,high
+T104,"python,data analysis,visualization",high,medium
+T105,"java,spring",medium,high
+T106,"javascript,react,redux",high,critical
+T107,"sql,database optimization",medium,low
+T108,"python,machine learning,tensorflow",high,high
+T109,"html,css,responsive design",low,medium
+T110,"devops,kubernetes,docker",high,high
+T111,"python,django,rest api",medium,medium
+T112,"javascript,node.js,express",medium,high
+T113,"sql,data modeling,postgres",high,medium
+T114,"ruby,rails",medium,low
+T115,"python,data science,pandas",high,critical
+T116,"c#,.net core",medium,medium
+T117,"javascript,vue.js",medium,high
+T118,"cloud architecture,aws",high,high
+T119,"mobile development,flutter",high,medium
+T120,"python,fastapi",low,medium
+T121,"javascript,typescript,angular",high,high
+T122,"database administration,mongodb",medium,low
+T123,"python,automation testing",low,medium
+T124,"java,microservices",high,high
+T125,"javascript,jquery,bootstrap",low,low
+T126,"python,data engineering,spark",high,critical
+T127,"devops,jenkins,ci/cd",medium,high
+T128,"swift,ios development",high,medium
+T129,"kotlin,android development",high,medium
+T130,"php,laravel",medium,low
+

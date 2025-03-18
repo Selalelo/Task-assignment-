@@ -1,0 +1,5 @@
+Employee id,Name,Skills,Experience,Success rate,Workload
+E001,Lolo,"python,html,sql",5,90,1
+E002,Elton,"html,python,css",3,50,0
+E003,Muntu,"javascript",1,70,1
+E004,Dolly,"javascript",2,80,0
